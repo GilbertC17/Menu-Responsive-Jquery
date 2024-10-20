@@ -215,7 +215,7 @@ body{
 
    #image-slide-section {
       max-width: 480px;
-      margin-top: 30px;
+      margin-top: 10px;
    }
 
    #image-slide-section article {
@@ -249,5 +249,8 @@ body{
       max-width: 480px;
    }
 
-}
+   #navegator {
+      display: none;
+   }
 
+}
