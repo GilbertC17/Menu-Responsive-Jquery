@@ -233,9 +233,13 @@ body{
       line-height: 50px;
    }
 
+   #serv-boxs {
+      margin-left: 20px;
+      margin-right: 20px;
+   }
+
    #serv-boxs ul {
       display: flex;
-      padding-left: 12px;
       flex-direction: column;
       gap: 20px;
    }
